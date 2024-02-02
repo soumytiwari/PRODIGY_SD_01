@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\bin\Debug\net6.0-windows\Temperature_converter.exe
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\bin\Debug\net6.0-windows\Temperature_converter.deps.json
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\bin\Debug\net6.0-windows\Temperature_converter.runtimeconfig.json
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\bin\Debug\net6.0-windows\Temperature_converter.dll
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\bin\Debug\net6.0-windows\Temperature_converter.pdb
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.Form1.resources
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.Properties.Resources.resources
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.dll
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\refint\Temperature_converter.dll
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.pdb
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\Temperature_converter.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Temperature_converter\Temperature_converter\obj\Debug\net6.0-windows\ref\Temperature_converter.dll
